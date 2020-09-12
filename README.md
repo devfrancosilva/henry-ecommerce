@@ -14,7 +14,7 @@
 - Sequelize (ORM)
 - PostgreSQL
 
-## DEMO
+## DEMO VDEO
 
 [![ScreenShot](http://i3.ytimg.com/vi/AGTYSIh4qmk/hqdefault.jpg)](https://youtu.be/AGTYSIh4qmk)
 
